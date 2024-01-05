@@ -1,7 +1,7 @@
 import unittest
 
 from src.main.lab import return_positive_statement, return_negative_statement
-from utilities.sentiment_utility import get_sentiment
+from src.utilities.sentiment_utility import get_sentiment
 
 class TestSentiment(unittest.TestCase):
     def test_positive_sentiment(self):

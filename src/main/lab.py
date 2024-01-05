@@ -11,11 +11,11 @@ print(result[0])
 
 # TODO: Make this function return a statement that will be classified as POSITIVE
 def return_positive_statement():
-    statement = ""
+    statement = "I love to use the amazing transformer library from HuggingFace!"
     return statement
 
 # TODO: Make this function return a statement that will be classified as NEGATIVE
 def return_negative_statement():
-    statement = ""
+    statement = "I hate to use the stupid transformer library from HuggingFace!"
     return statement
 
